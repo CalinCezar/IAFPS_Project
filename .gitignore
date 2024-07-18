@@ -1,0 +1,13 @@
+# Ignore executables
+*.exe
+
+# Ignore Visual Studio specific files
+.vs/
+
+# Ignore bin and obj directories at any level
+**/bin/**
+**/obj/**
+
+# Ignore build directories
+Debug/
+Release/
